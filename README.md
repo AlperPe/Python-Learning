@@ -1,0 +1,3 @@
+# Python-Learning
+Let's see my learning steps! <br>
+Day - One: Average, Students Lists, Odd&Even Numbers and more...
